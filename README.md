@@ -1,6 +1,6 @@
 # hls-dl
 
-###### [Getting Started](#gettingstarted) | [Usage](#usage) | [API](#api) | [Future](#future)
+###### [Getting Started](#getting-started) | [Usage](#usage) | [API](#api) | [Future](#future)
 
 > hls-dl is a NodeJS module that provides the ability to download HTTP Live Stream playlists, particularly M3U/M3U8 and MPEG-DASH playlist files. hls-dl is capable of downloading media and master streams, as well as actively live streams.
 
@@ -25,7 +25,7 @@ Capturing media from live streams is not always a straightforward task. hls-dl s
 To include hls-dl in your project, run the following command:
 
 ```bash
-npm i hls-dl
+npm install hls-dl
 ```
 
 or if you prefer using yarn:
@@ -40,7 +40,7 @@ yarn add hls-dl
 
 ## Usage
 
-hls-dl provides an advanced stream object to download any data returned from a M3U/M3U8 media playlist file. This data can be be written to a file easily using Node's `fs` module. A number of examples are provided below to demonstrate capture from playlists that are located in the file system as well as online.
+hls-dl provides a readable stream object to download any data returned from a M3U/M3U8 media playlist file. This data can be be written to a file easily using Node's `fs` module. A number of examples are provided below to demonstrate capture from playlists that are located in the file system as well as online.
 
 **Example** - Downloading an m3u8 media playlist stream and piping to a writable stream
 
