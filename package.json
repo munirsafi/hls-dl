@@ -1,0 +1,32 @@
+{
+  "name": "hls-dl",
+  "version": "0.1.0",
+  "description": "Downloads HTTP live/archived stream (m3u, m3u8, mpd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munirsafi/hls-dl.git"
+  },
+  "keywords": [
+    "http",
+    "live",
+    "stream",
+    "hls",
+    "m3u",
+    "m3u8",
+    "mpd",
+    "mpeg-dash",
+    "live-stream",
+    "download"
+  ],
+  "author": "Munir Safi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munirsafi/hls-dl/issues"
+  },
+  "homepage": "https://github.com/munirsafi/hls-dl#readme",
+  "dependencies": {}
+}
