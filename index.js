@@ -1,3 +1,1 @@
-const hlsdl = require('./lib/index');
-
-module.exports = hlsdl;
+module.exports = require('./lib/index');
