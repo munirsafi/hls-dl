@@ -23,7 +23,7 @@
     "download"
   ],
   "author": "Munir Safi",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/munirsafi/hls-dl/issues"
   },
