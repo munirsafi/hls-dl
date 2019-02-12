@@ -8,7 +8,6 @@
 
 Capturing media from live streams is not always a straightforward task. hls-dl simplifies this process and provides the following features:
 
-* **Zero dependency package**
 * Supports http, https, and file:// protocols
 * Blazing fast speeds - **average of 1.5-4x** faster than other HTTP live-stream downloading modules
 * Downloads M3U/M3U8 media stream playlists
