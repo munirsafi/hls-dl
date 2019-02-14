@@ -133,7 +133,6 @@ Emitted when an error or issue occurs, but does not break the script. Any point 
 
 Due to the package being actively developed, there are a number of items in the development backlog which are currently being worked on. A list of these features is provided below:
 
-* M3U live playlists
 * MPD playlist download
 * MPD live playlists
 
