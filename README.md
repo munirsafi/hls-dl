@@ -24,13 +24,13 @@ Capturing media from live streams is not always a straightforward task. hls-dl s
 To include hls-dl in your project, run the following command:
 
 ```bash
-npm install hls-dl
+npm install @munirsafi/hls-dl
 ```
 
 or if you prefer using yarn:
 
 ```bash
-yarn add hls-dl
+yarn add @munirsafi/hls-dl
 ```
 
 <!-- [END gettingstarted] -->
