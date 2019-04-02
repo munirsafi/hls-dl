@@ -28,5 +28,7 @@
     "url": "https://github.com/munirsafi/hls-dl/issues"
   },
   "homepage": "https://github.com/munirsafi/hls-dl#readme",
-  "dependencies": {}
+  "dependencies": {
+    "sax": "^1.2.4"
+  }
 }
