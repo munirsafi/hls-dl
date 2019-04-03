@@ -1,6 +1,6 @@
 {
-  "name": "hls-dl",
-  "version": "0.1.0",
+  "name": "@munirsafi/hls-dl",
+  "version": "0.1.1",
   "description": "Downloads HTTP live/archived stream (m3u, m3u8, mpd)",
   "main": "index.js",
   "scripts": {
